@@ -8,5 +8,7 @@ This project will help to analyze a music playlist database. SQL is used to expl
 - PgAdmin4
 
 #Database Schema:
+
+
 ![Music Store Database Schema](https://github.com/KiranParihar/SQL_Project-Music_data_analysis/blob/main/Music_Database_Schema.png)
 
